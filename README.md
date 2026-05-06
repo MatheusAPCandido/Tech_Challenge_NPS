@@ -5,11 +5,14 @@
 ## Estrutura do repositório:
 📁 AI_Scientist
 - Código da Análise Exploratória
+
 📁Apresentacao
 - PDF Slides de apresentação
 - Video Executivo
+
 📁 Base_de_dados 
 Excel banco de dados
+
 📁 Documentos
 Respostas Requisitos:
 - Análise Exploratória de Dados
