@@ -11,7 +11,7 @@
 - Video Executivo
 
 📁 Base_de_dados 
-Excel banco de dados
+- Excel banco de dados utilizado
 
 📁 Documentos
 Respostas Requisitos:
