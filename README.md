@@ -15,6 +15,7 @@ Respostas Requisitos:
 - Análise Exploratória de Dados
 - Definição de Target
 - NPS
+  Arquivos estão em WORD, download necessário.
 
 # Tech Challenge: Previsão de Risco de Detratação (NPS) no E-commerce
 
